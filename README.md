@@ -1,6 +1,5 @@
 # MonkeyModMangerRevamped
 
-
 * Overhaul of MMM UI and pruning of broken mods
 * to have your modded added, DM me the Github repository of the mod you want added along with any dependencies.
 Mod submission is likely subject to change in the future.
